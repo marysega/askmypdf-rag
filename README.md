@@ -4,9 +4,17 @@ RAG application for question answering over PDF documents using embeddings, vect
 
 Created by Maryse G.A.
 
+<p align="center">
+  <img src="./assets/AskMyPdfLOGO.png" alt="AskMyPDF RAG Logo" width="320" />
+</p>
+
 ## Interface Preview
 
 ![AskMyPDF RAG Interface](./assets/askmypdf-rag-ui.png)
+
+## Overview
+
+AskMyPDF RAG is a portfolio-ready retrieval-augmented generation application that lets a user upload a PDF, build embeddings, index chunks in FAISS, retrieve relevant passages, and answer questions grounded in document context.
 
 ## What This Project Shows
 
